@@ -27,22 +27,19 @@ Here are a few things I've picked up along my learning journey.
 
 ### 🚧 Current Projects
 
-<p>
-- [Map CR8R](https://github.com/GreggRoll/MapCR8R): A simple to use Python GUI based geospatial data plotting tool
+- (Map CR8R)[https://github.com/GreggRoll/MapCR8R]: A simple to use Python GUI based geospatial data plotting tool
 - Poll it for me: A Python exe that polls a given website for a given word at a defined interval and emails you when the word has been posted in that time
-</p>
+
 
 ### 🌱 What I'm Learning
-<p>
+
 - I am pursuing a BA degree in applied mathematics
-- I am working towards DataCamp's Machine Learning certification 
-</p>
+- I am working towards DataCamp's Machine Learning certification
 
 ### 🏄 Fun facts
-<p>
+
 - I love the water! you can often find me fishing, diving, and boating on weekends
 - I love fitness! I recently built a home gym and i'm working to document my progress
 - I just built an electric skateboard, video will come soon!
-</p>
 
 `Reach out to me on any of the social links above to talk about possible opportunities, mentorship, collaborations and everything in between!`
