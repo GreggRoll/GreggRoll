@@ -27,7 +27,7 @@ Here are a few things I've picked up along my learning journey.
 
 ### 🚧 Current Projects
 
-- (Map CR8R)[https://github.com/GreggRoll/MapCR8R]: A simple to use Python GUI based geospatial data plotting tool
+- [Map CR8R](https://github.com/GreggRoll/MapCR8R): A simple to use Python GUI based geospatial data plotting tool
 - Poll it for me: A Python exe that polls a given website for a given word at a defined interval and emails you when the word has been posted in that time
 
 
