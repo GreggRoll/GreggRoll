@@ -11,7 +11,7 @@
 ### 🙋‍♂ About Me
 
 <p>
-Actively clered Veteran Data Scientist.
+Actively clered Veteran Data Scientist.<br>
 #openforwork<br>
 I have many interests and love to take on new challenges. I am a passionate learner, Data Scientist, developer, math nerd, and CodeWars samurai!
 </p>
