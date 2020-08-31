@@ -11,6 +11,7 @@
 ### 🙋‍♂ About Me
 
 <p>
+Actively clered Veteran Data Scientist.<br>
 #openforwork<br>
 I have many interests and love to take on new challenges. I am a passionate learner, Data Scientist, developer, math nerd, and CodeWars samurai!
 </p>
@@ -22,7 +23,7 @@ Here are a few things I've picked up along my learning journey.
 </p>
 
 - Langs: Python, HTML, CSS, Java, JavaScript, SQL
-- Tools: VS Code, Jupyter, Tableau, Docker, 
+- Tools: VS Code, Jupyter, Tableau, Docker, Linux, Bash, phpMyAdmin, MongoDB
 - Skills: Machine Learning, Exploratory Data Analysis, Data Visualizations, Interactive Dashboard creation, Web development
 
 ### 🚧 Current Projects
