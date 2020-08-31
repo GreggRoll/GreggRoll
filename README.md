@@ -30,7 +30,7 @@ Here are a few things I've picked up along my learning journey.
 
 - [Map CR8R](https://github.com/GreggRoll/MapCR8R): A simple to use Python GUI based geospatial data plotting tool
 - Poll it for me: A Python exe that polls a given website for a given word at a defined interval and emails you when the word has been posted in that time
-- Creating more shark visualizations! [here is a visualization i made using Tableau for Shark Week!](\assets\Tableau_shark.png)
+- Creating more shark visualizations! [here is a visualization i made using Tableau for Shark Week!](/assets/Tableau_shark.png)
 
 
 ### 🌱 What I'm Learning
