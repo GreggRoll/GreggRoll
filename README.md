@@ -38,12 +38,6 @@ Here are a few things I've picked up along my learning journey.
 - I am pursuing a BA degree in applied mathematics
 - I am working towards DataCamp's Machine Learning certification
 
-### 🏄 Fun facts
-
-- I love the water! you can often find me fishing, diving, and boating on weekends
-- I love fitness! I recently built a home gym and i'm working to document my progress
-- I just built an electric skateboard, video will come soon!
-
 [![GreggRoll's github stats](https://github-readme-stats.vercel.app/api?username=GreggRoll&theme=dark&show_icons=true)](https://github.com/GreggRoll)
 
 `Reach out to me on any of the social links above to talk about possible opportunities, mentorship, collaborations and everything in between!`
